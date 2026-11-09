@@ -1,40 +1,84 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=160&text=x0deex&fontSize=64&fontColor=ffffff&fontAlignY=50&desc=DEVOPS%20%E2%80%A2%20PYTHON&descSize=14&descAlignY=78&descColor=e10600" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="x0dex" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=E10600&center=true&vCenter=true&width=500&lines=build.+ship.+automate.;infrastructure+as+code.;python+%E2%80%A2+linux+%E2%80%A2+containers" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=E10600&center=true&vCenter=true&width=620&lines=%3E+build.+ship.+automate.;%3E+infrastructure+as+code;%3E+python+%C2%B7+linux+%C2%B7+containers;%3E+if+it+breaks+%E2%80%94+it+gets+a+pipeline" alt="typing" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=x0deex&style=flat-square&color=e10600&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/x0deex?style=flat-square&label=FOLLOWERS&color=000000&labelColor=e10600" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=flat-square&labelColor=e10600" />
+</p>
+
+<img src="assets/divider.svg" width="100%" />
+
+<p align="center"><img src="assets/t-about.svg" width="100%" /></p>
+
+<p align="center">
+  <img src="assets/terminal.svg" width="760" alt="terminal" />
+</p>
+
+<img src="assets/divider.svg" width="100%" />
+
+<p align="center"><img src="assets/t-stack.svg" width="100%" /></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,docker,kubernetes&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,nginx,githubactions,gitlab,prometheus,grafana&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis,git,vim,aws&theme=dark" />
+</p>
+
+<img src="assets/divider.svg" width="100%" />
+
+<p align="center"><img src="assets/t-site.svg" width="100%" /></p>
+
+<table align="center">
+<tr>
+<td align="center" width="760">
 
 <br/>
 
-<p align="center">
+<h3>🌐 x0dex</h3>
+
+<!-- коротко о сайте: что это и для кого -->
+<p><sub>ОПИСАНИЕ САЙТА — что это за проект и для кого</sub></p>
+
+<p>
   <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=e10600" />
-  <img src="https://img.shields.io/badge/linux-000000?style=flat-square&logo=linux&logoColor=e10600" />
-  <img src="https://img.shields.io/badge/bash-000000?style=flat-square&logo=gnubash&logoColor=e10600" />
   <img src="https://img.shields.io/badge/docker-000000?style=flat-square&logo=docker&logoColor=e10600" />
-  <img src="https://img.shields.io/badge/kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=e10600" />
-  <img src="https://img.shields.io/badge/terraform-000000?style=flat-square&logo=terraform&logoColor=e10600" />
-  <img src="https://img.shields.io/badge/ansible-000000?style=flat-square&logo=ansible&logoColor=e10600" />
-  <img src="https://img.shields.io/badge/github_actions-000000?style=flat-square&logo=githubactions&logoColor=e10600" />
   <img src="https://img.shields.io/badge/nginx-000000?style=flat-square&logo=nginx&logoColor=e10600" />
-  <img src="https://img.shields.io/badge/postgresql-000000?style=flat-square&logo=postgresql&logoColor=e10600" />
+  <img src="https://img.shields.io/badge/ci%2Fcd-000000?style=flat-square&logo=githubactions&logoColor=e10600" />
 </p>
 
-<br/>
+<a href="https://SITE_URL">
+  <img src="https://img.shields.io/badge/OPEN%20SITE-%E2%86%92-000000?style=for-the-badge&labelColor=e10600" />
+</a>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" />
+
+<p align="center"><img src="assets/t-activity.svg" width="100%" /></p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=x0deex&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=000000&icon_color=e10600&text_color=ffffff" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0deex&layout=compact&hide_border=true&hide_title=true&bg_color=000000&text_color=ffffff" />
+  <img src="https://raw.githubusercontent.com/x0deex/x0deex/output/snake.svg" width="100%" alt="snake" />
+</p>
+
+<img src="assets/divider.svg" width="100%" />
+
+<p align="center"><img src="assets/t-contact.svg" width="100%" /></p>
+
+<p align="center">
+  <a href="https://github.com/x0deex"><img src="https://img.shields.io/badge/GITHUB-x0deex-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=e10600" /></a>
+  <a href="https://SITE_URL"><img src="https://img.shields.io/badge/WEB-x0dex-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=e10600" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0deex&bg_color=000000&color=ffffff&line=e10600&point=ffffff&area=true&area_color=e10600&hide_border=true&hide_title=true" width="100%" />
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/x0deex"><img src="https://img.shields.io/badge/github-x0deex-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=e10600" /></a>
-  <img src="https://komarev.com/ghpvc/?username=x0deex&style=flat-square&color=e10600&label=views" />
+  <sub><code>x0dex@prod:~$ exit</code></sub>
 </p>
