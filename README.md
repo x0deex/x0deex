@@ -64,14 +64,6 @@
 
 <img src="assets/divider.svg" width="100%" />
 
-<p align="center"><img src="assets/t-activity.svg" width="100%" /></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/x0deex/x0deex/output/snake.svg" width="100%" alt="snake" />
-</p>
-
-<img src="assets/divider.svg" width="100%" />
-
 <p align="center"><img src="assets/t-contact.svg" width="100%" /></p>
 
 <p align="center">
