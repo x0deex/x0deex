@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56">
+<style>text{font-family:'JetBrains Mono','Fira Code','Courier New',monospace;font-weight:800;letter-spacing:6px}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}</style>
+<text x="500.0" y="36" text-anchor="middle" font-size="24" fill="#ffffff"><tspan fill="#e10600">./</tspan>ACTIVITY<tspan class="cur" fill="#e10600">_</tspan></text>
+</svg>
