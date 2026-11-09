@@ -36,5 +36,5 @@
 
 <p align="center">
   <a href="https://github.com/x0dex"><img src="https://img.shields.io/badge/github-x0dex-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=e10600" /></a>
-  <img src="https://komarev.com/ghpvc/?username=x0dex&style=flat-square&color=e10600&label=views" />
+  <img src="https://komarev.com/ghpvc/?username=x0deex&style=flat-square&color=e10600&label=views" />
 </p>
