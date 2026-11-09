@@ -26,7 +26,7 @@
 ### 👨‍💻 `$ cat about_me.yaml`
 
 ```yaml
-name:     Мурад Гюлмагамедов
+name:     x0dex
 role:     Future DevOps Engineer
           & Python Developer
 study:    ПМИ — Прикладная математика
